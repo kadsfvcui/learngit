@@ -1,3 +1,0 @@
-﻿  b.cpp
-D:\learngit\Project2\Project2\b.cpp(4,1): warning C4326: “main”的返回类型应为“int”而非“void”
-  Project2.vcxproj -> D:\learngit\Project2\x64\Debug\Project2.exe
